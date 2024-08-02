@@ -1,0 +1,4 @@
+#sales
+price :
+tally:
+total:
